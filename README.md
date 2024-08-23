@@ -51,7 +51,7 @@ We can ensure that we have changed the owner correctly with the following comman
 
 ```
 
-## Crete MySQL Database and User
+## Create MySQL Database and User
 
 Teampass requires a MySQL database and a user to access it. To create it, run the following commands: 
 
