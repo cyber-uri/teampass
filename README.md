@@ -1,5 +1,7 @@
 # How to install TeamPass on Ubuntu 22.04
 
+Welcome to my guide for download and install Teampass on Ubuntu 22.04 for team password management.
+
 ## Prerequisites
 
 Before installing Teampass, ensure the following:
